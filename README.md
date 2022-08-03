@@ -1,7 +1,7 @@
 # Simon Waldherr
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simonwaldherr&show_icons=true&hide=commits) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwaldherr&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simonwaldherr&show_icons=true&include_all_commits=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwaldherr&layout=compact&langs_count=6&theme=dark)
 
 Hi, I'am Simon - a multidisciplinary autodidactic nerd.
 From 2004 to 2008 I did my training as a mechatronics technician (specializing in communication technology).
