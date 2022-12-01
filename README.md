@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simonwaldherr&show_icons=true&include_all_commits=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwaldherr&layout=compact&langs_count=6&theme=dark)
 
-Hi, I'am Simon - a multidisciplinary autodidactic nerd.
+Hi, my name is Simon - I'am a multidisciplinary autodidactic nerd.
 From 2004 to 2008 I did my training as a mechatronics technician (specializing in communication technology).
 After that, I gained work experience in manufacturing and quality control.
 In my private life I've spend a lot of time on web and embedded development.
@@ -14,7 +14,13 @@ In addition to programming, I'm also very interested in photography (especially 
 I am also a deputy fire brigade commander.
 
 ## Get in touch
-- Twitter: http://twitter.com/SimonWaldherr/
+- Mastodon: https://chaos.social/@simonwaldherr
+- Twitter: https://twitter.com/SimonWaldherr/
+- GitHub: https://github.com/SimonWaldherr/
+- GitLab: https://gitlab.com/SimonWaldherr/
+- Flickr: https://flickr.com/photos/simonwaldherr/
+- 500px: https://500px.com/p/simonwaldherr
 - Instagram: https://www.instagram.com/SimonWaldherr/
 - Wiki Commons: https://commons.wikimedia.org/wiki/User:SimonWaldherr
-- Personal site: https://simonwaldherr.de
+- Personal site: https://simonwaldherr.de/ / http://simon.waldherr.eu/
+- Employer site: https://de.rubix.com/
