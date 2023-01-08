@@ -1,7 +1,9 @@
 # Simon Waldherr
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simonwaldherr&show_icons=true&include_all_commits=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwaldherr&layout=compact&langs_count=6&theme=dark)
+-->
 
 Hi, my name is Simon - I'am a multidisciplinary autodidactic nerd.
 From 2004 to 2008 I did my training as a mechatronics technician (specializing in communication technology).
@@ -14,6 +16,7 @@ In addition to programming, I'm also very interested in photography (especially 
 I am also a deputy fire brigade commander.
 
 ## Get in touch
+- Personal site: https://simonwaldherr.de/ / http://simon.waldherr.eu/
 - Mastodon: https://chaos.social/@simonwaldherr
 - Twitter: https://twitter.com/SimonWaldherr/
 - GitHub: https://github.com/SimonWaldherr/
@@ -22,5 +25,5 @@ I am also a deputy fire brigade commander.
 - 500px: https://500px.com/p/simonwaldherr
 - Instagram: https://www.instagram.com/SimonWaldherr/
 - Wiki Commons: https://commons.wikimedia.org/wiki/User:SimonWaldherr
-- Personal site: https://simonwaldherr.de/ / http://simon.waldherr.eu/
 - Employer site: https://de.rubix.com/
+- LinkedIn: https://www.linkedin.com/in/simonwaldherr/ ([Rubix D-A-CH LinkedIn post about me](https://www.linkedin.com/posts/rubixdeutschland_onerubix-mitarbeitermonday-wirsindrubix-activity-7005443872306659329-6E2E?utm_source=share&utm_medium=member_desktop))
