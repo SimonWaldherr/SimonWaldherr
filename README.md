@@ -8,7 +8,9 @@ Since 2013 I am at my current employer and have gained a lot of experience in th
 Over the years I have learned various programming languages (Go, PHP, C, JS, R, SQL, DAX, …) and with them a wide variety of programming concepts.
 My favorite language at the moment is Golang, with which I have already implemented various professional and fun projects.
 In addition to programming, I'm also very interested in [photography](https://commons.wikimedia.org/wiki/User:SimonWaldherr) (especially but not exclusively for aerial photography), electronics (primarily Raspberry Pi), generative AI (ChatGPT, Midjourney, …) and everything [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics). 
-I am also a deputy fire brigade commander.
+I am also a deputy fire brigade commander.  
+
+My excitement for AI lead me through an interesting journey to write my own AI-infused Book [Künstliche Literatur: Kurzgeschichten aus der Welt der KI](https://www.amazon.de/dp/B0CH23SPMF).  
 
 ## Get in touch
 - Personal site: https://simonwaldherr.de/ / http://simon.waldherr.eu/
