@@ -18,6 +18,7 @@ My excitement for AI lead me through an interesting journey to write my own AI-i
 - Twitter: https://twitter.com/SimonWaldherr/
 - GitHub: https://github.com/SimonWaldherr/
 - GitLab: https://gitlab.com/SimonWaldherr/
+- SoundCloud: https://soundcloud.com/simonwaldherr
 - Flickr: https://flickr.com/photos/simonwaldherr/
 - 500px: https://500px.com/p/simonwaldherr
 - Instagram: https://www.instagram.com/SimonWaldherr/
